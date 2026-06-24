@@ -3,6 +3,7 @@
   "main": "expo-router/entry",
   "version": "1.0.0",
   "dependencies": {
+    "@apollo/client": "^3.14.1",
     "@expo/ui": "~56.0.18",
     "expo": "~56.0.12",
     "expo-constants": "~56.0.18",
@@ -17,6 +18,7 @@
     "expo-symbols": "~56.0.6",
     "expo-system-ui": "~56.0.5",
     "expo-web-browser": "~56.0.5",
+    "graphql": "^16.14.2",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "react-native": "0.85.3",

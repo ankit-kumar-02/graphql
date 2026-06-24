@@ -1,0 +1,13 @@
+{
+  "name": "bookshelf-graphql",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "@apollo/server": "^4.x",
+    "better-sqlite3": "^12.11.1",
+    "graphql": "^16.x"
+  }
+}
